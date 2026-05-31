@@ -1,7 +1,7 @@
-# AI License Plate Recognition System
+#  License Plate Recognition System
 
 ## Overview
-AI-powered Automatic License Plate Recognition System using CNN, OpenCV and Streamlit.
+Automatic License Plate Recognition System using CNN, OpenCV and Streamlit.
 
 ## Features
 - Vehicle Image Upload
